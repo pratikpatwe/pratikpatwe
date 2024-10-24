@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
     currentlyWorking: "Building Webal",
-    learning: `${techStackSection}`,
+    learning: "Web Dev",
     intrestedIn: ["Tech 🔧", "Coffee ☕", "Innovations 💡"],
     availability: "Open to exciting opportunities! ✨",
     funFact: "I debug with console.log and I'm not ashamed of it 🐛"
@@ -18,7 +18,7 @@ const aboutMe = {
 <!-- Tech Stack with Animated Icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  Tech Stack
+  Skills
 </h2>
 
 <div align="center">
