@@ -22,9 +22,9 @@ const aboutMe = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react&perline=8&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,firebase,aws,docker&perline=8&theme=dark" />
+<!--   <img src="https://skillicons.dev/icons?i=tailwind,firebase,aws,docker&perline=8&theme=dark" /> -->
 </div>
 
 
