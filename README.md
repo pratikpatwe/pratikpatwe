@@ -11,7 +11,7 @@ const aboutMe = {
     learning: "Web Dev",
     intrestedIn: ["Tech 🔧", "Coffee ☕", "Innovations 💡"],
     availability: "Open to exciting opportunities! ✨",
-    funFact: "I debug with console.log and I'm not ashamed of it 🐛"
+    funFact: "I like to use TABS over SPACES 🧑‍💻"
 };
 ```
 
