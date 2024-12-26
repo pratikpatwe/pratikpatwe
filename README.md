@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
+  <a href="https://github.com/pratikpatwe">
+    <img src="https://img.shields.io/github/followers/pratikpatwe?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/twitter/follow/yourusername?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/PatwePrati11520">
+    <img src="https://img.shields.io/twitter/follow/PatwePrati11520?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/pratik-patwe-7741a0255">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
