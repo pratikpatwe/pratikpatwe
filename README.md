@@ -7,7 +7,7 @@
 
 ```javascript
 const aboutMe = {
-    currentlyWorking: "",
+    currentlyWorking: "Vocalytics",
     learning: "Web Dev",
     intrestedIn: ["Tech 🔧", "Coffee ☕", "Innovations 💡"],
     availability: "Open to exciting opportunities! ✨",
