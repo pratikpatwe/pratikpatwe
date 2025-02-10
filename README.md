@@ -36,7 +36,7 @@ const aboutMe = {
 ## 📫 Let's Connect!
 <p align="center">
   <a href="https://pratikpatwe.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=data:image/png;base64,https://pbs.twimg.com/profile_images/1888911021525311488/_VPXHSEq_400x400.jpg" />
   </a>
   <a href="https://x.com/pratik_patwe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
