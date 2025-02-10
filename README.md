@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Pratik Patwe 👋</h1>
+<h1 align="center">👋 Hi, I'm Pratik Patwe</h1>
 <p align="center">
-  Tech enthusiast building AI-powered SaaS solutions 🚀 | Passionate about innovation & problem-solving
+  <strong>AI-powered SaaS Innovator | Full-Stack Developer | Tech Enthusiast 🚀</strong>
 </p>
 
 ---
@@ -9,11 +9,11 @@
 
 ```javascript
 const aboutMe = {
-    currentlyWorkingOn: "Building SaaS products with AI integration 🚀",
-    currentlyLearning: "Mastering Backend with Node.js & Express.js 🔥",
-    interestedIn: ["Tech & AI 🤖", "Coffee ☕", "Game-Changing Innovations 💡"],
+    currentlyWorkingOn: "",
+    currentlyLearning: "Advanced Backend Development with Node.js & Express.js 🔥",
+    interestedIn: ["Tech & AI 🤖", "Coffee ☕", "Innovative Problem-Solving 💡"],
     availability: "Open to exciting opportunities & collaborations! ✨",
-    funFact: "I prefer TABS over SPACES! 🧑‍💻"
+    funFact: "Tabs > Spaces! 🧑‍💻"
 };
 ```
 
@@ -41,7 +41,11 @@ const aboutMe = {
   <a href="https://x.com/pratik_patwe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pratik-patwe-7741a0255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.youtube.com/@PratikPatwe" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  🚀 Let's build something amazing!
 </p>
