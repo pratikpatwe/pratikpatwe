@@ -1,28 +1,47 @@
+<h1 align="center">Hi, I'm Pratik Patwe 👋</h1>
+<p align="center">
+  Tech enthusiast building AI-powered SaaS solutions 🚀 | Passionate about innovation & problem-solving
+</p>
 
-<!-- About Me -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 
-  About Me
-</h2>
+---
+
+## 👨‍💻 About Me
 
 ```javascript
 const aboutMe = {
-    currentlyWorking: "",
-    currentlyLearning: "Backend",
-    intrestedIn: ["Tech 🔧", "Coffee ☕", "Innovations 💡"],
-    availability: "Open to exciting opportunities! ✨",
-    funFact: "I like to use TABS over SPACES 🧑‍💻"
+    currentlyWorkingOn: "Building SaaS products with AI integration 🚀",
+    currentlyLearning: "Mastering Backend with Node.js & Express.js 🔥",
+    interestedIn: ["Tech & AI 🤖", "Coffee ☕", "Game-Changing Innovations 💡"],
+    availability: "Open to exciting opportunities & collaborations! ✨",
+    funFact: "I prefer TABS over SPACES! 🧑‍💻"
 };
 ```
 
-<!-- Tech Stack with Animated Icons -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  Skills
-</h2>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,nodejs,express,react,nextjs,mongodb&perline=8&theme=dark" />
-  <br/>
-<!--   <img src="https://skillicons.dev/icons?i=tailwind,firebase,aws,docker&perline=8&theme=dark" /> -->
-</div>
+## 🛠 Tech Stack
+
+### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,react,nextjs&perline=6&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,aws,docker&perline=5&theme=dark" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://pratikpatwe.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
