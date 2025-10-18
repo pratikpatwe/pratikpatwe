@@ -9,10 +9,8 @@
 
 ```javascript
 const aboutMe = {
-    currentlyWorkingOn: "",
-    currentlyLearning: "Advanced Backend Development with Node.js & Express.js 🔥",
+    currentlyWorkingOn: "BaseBarin",
     interestedIn: ["Tech & AI 🤖", "Coffee ☕", "Innovative Problem-Solving 💡"],
-    availability: "Open to exciting opportunities & collaborations! ✨",
     funFact: "Tabs > Spaces! 🧑‍💻"
 };
 ```
