@@ -1,1 +1,1 @@
-.
+pratikpatwe.xyz
